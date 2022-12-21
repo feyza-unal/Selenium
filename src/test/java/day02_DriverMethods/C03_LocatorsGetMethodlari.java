@@ -31,6 +31,9 @@ public class C03_LocatorsGetMethodlari {
         driver.close();
 
 
+        // cmd+c
+        // cmd+f
+        // cmd+v
 
 
     }
